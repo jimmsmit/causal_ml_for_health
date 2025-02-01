@@ -307,6 +307,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-github-metadata
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -353,3 +354,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# github:
+#   user: jimmsmit
+#   token: pat_11AWX46IA0ipZbRxG18BfF_JbXC0Huv6hPfXZDZAxBpt7T69B0H3fWT74NcVvsUHYQ2CED3RET7Wu5aZIl
