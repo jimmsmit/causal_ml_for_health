@@ -309,6 +309,7 @@ plugins:
   - jekyll-redirect-from
   - jemoji
   - jekyll-github-metadata
+  - jekyll-sass-converter
 
 # Mimic GitHub Pages with --safe
 whitelist:
