@@ -12,8 +12,8 @@ title                    : "Causal ML for Health"
 title_separator          : "-"
 name                     : &name "Jim M. Smit"
 description              : &description "I do research ..."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://jimmsmit.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "causal_ml_for_health" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -355,6 +355,7 @@ compress_html:
   ignore:
     envs: development
 
-# github:
-#   user: jimmsmit
-#   token: pat_11AWX46IA0ipZbRxG18BfF_JbXC0Huv6hPfXZDZAxBpt7T69B0H3fWT74NcVvsUHYQ2CED3RET7Wu5aZIl
+
+
+github:
+  token: $env:JEKYLL_GITHUB_TOKEN # Or use the token directly here if you set it in the config
