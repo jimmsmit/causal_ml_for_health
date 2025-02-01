@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_linkedin.png"
-  avatar_width     : 100px  # Try reducing this value
+  # avatar_width     : 100px  # Try reducing this value
   name             : "Jim M. Smit"
   pronouns         : # example: "she/her"  
   bio              : "Medical Researcher interested in ML and Causal Inference"
