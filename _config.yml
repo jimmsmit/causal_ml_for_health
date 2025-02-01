@@ -284,6 +284,8 @@ defaults:
       share: true
 
 
+theme: jekyll-theme-primer
+
 # Sass/SCSS
 # sass:
 #   sass_dir: _sass
