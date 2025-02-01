@@ -1,15 +1,56 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi there!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Welcome to my personal website!
+<!-- 
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
-A data-driven personal website
+# 📚 Journal Publications
+
+## 2025
+
+- **[Predicting benefit from adjuvant therapy with corticosteroids in community-acquired pneumonia: a data-driven analysis of randomised trials](https://www.sciencedirect.com/science/article/pii/S2213260024004053)**  
+  *JM Smit, PA Van Der Zee, SCM Stoof, et al.* – *Lancet Respiratory Medicine*, 2025.  
+  *Predicting Heterogeneous treatment effects of corticosteroids in CAP*  
+
+- **[The Heterogeneous Effect of High PEEP strategies on Survival in Acute Respiratory Distress Syndrome: preliminary results of a data-driven analysis of randomized trials](https://www.medrxiv.org/content/10.1101/2025.01.23.25320649v2)**  
+  *JM Smit, JH Krijthe, J. Van Bommel, et al. * – *medRxiv*,  
+  *Pre-print serving as a pre-registration for models to be externally validated*
+
+## 2023
+
+- **[Causal inference using observational intensive care unit data: a scoping review and recommendations for future practice](https://www.nature.com/articles/s41746-023-00961-1)**  
+  *JM Smit, JH Krijthe, WMR Kant,* – *npj Digital Medicine*, **6**, 221, 2023.  
+  *Scoping review on causal inference in the ICU*  
+
+- **[The future of artificial intelligence in intensive care: moving from predictive to actionable AI](https://link.springer.com/article/10.1007/s00134-023-07102-y)**  
+  *JM Smit, JH Krijthe, J van Bommel, on behalf of the Causal Inference for ICU Collaborators* – *Intensive Care Medicine*, **49(9)**, 1114-1116, 2023.  
+  *Introduces "Predictive" vs "Actionable" AI for a clinical audience*  
+
+
+## 2022
+
+- **[Development and Validation of an Early Warning Model for Hospitalized COVID-19 Patients: A MultiCenter Retrospective Cohort Study](https://link.springer.com/article/10.1186/s40635-022-00465-4)**  
+  *JM Smit, JH Krijthe, AN Tintu et al.* – *Intensive Care Medicine Experimental*, **10(1)**, 38, 2022.  
+  *Demonstrates an early warning model for ward-level COVID-19 patients.*  
+
+- **[Dynamic prediction of mortality in COVID-19 patients in the intensive care unit: A retrospective multi-center cohort study](https://www.sciencedirect.com/science/article/pii/S2666521222000242)**  
+  *JM Smit, JH Krijthe, AN Tintu et al.* – *Intensive Care Medicine Experimental*, **10(1)**, 38, 2022.  
+  *Demonstrates an early warning model for ward-level COVID-19 patients.*  
+
+- **[Development and Validation of an Early Warning Model for Hospitalized COVID-19 Patients: A MultiCenter Retrospective Cohort Study](https://link.springer.com/article/10.1186/s40635-022-00465-4)**  
+  *JM Smit, JH Krijthe, H Endeman et al.* – *Intelligence-Based Medicine*, **6**, 100071, 2022.  
+  *Demonstrates an Dynamic mortality prediction model for COVID-19 patients in the ICU.*  
+
+
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -46,4 +87,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
