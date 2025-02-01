@@ -48,7 +48,11 @@ This is the front page of a website that is powered by the [Academic Pages templ
   *JM Smit, JH Krijthe, H Endeman et al.* – *Intelligence-Based Medicine*, **6**, 100071, 2022.  
   *Demonstrates an Dynamic mortality prediction model for COVID-19 patients in the ICU.*  
 
+## 2021
 
+- **[Demystifying machine learning for mortality prediction](https://ccforum.biomedcentral.com/articles/10.1186/s13054-021-03868-z)**  
+  *JM Smit, ME van Genderen, MJT Reinders, et al.* – *Critical Care*, **25(1)**, 4-5, 2021.  
+  *A discussion about the differences between Statistics and Machine Learning.* 
 
 <!-- A data-driven personal website
 ======
